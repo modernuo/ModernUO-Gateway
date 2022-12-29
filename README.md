@@ -1,2 +1,2 @@
-# UOServer-Gateway
-Ultima Online Server Emulator Gateway &amp; Account Management
+# ModernUO Gateway
+Ultima Online Gateway &amp; Administration Web Server
