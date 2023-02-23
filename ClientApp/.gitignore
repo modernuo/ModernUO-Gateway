@@ -9,6 +9,12 @@
 # production
 /build
 
+# distribution
+/dist
+
+# JetBrains
+/.idea
+
 # misc
 .DS_Store
 .env.local
