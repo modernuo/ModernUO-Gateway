@@ -12,7 +12,7 @@ namespace ModernUOGateway.Data.Migrations.IdentityServer.Configuration
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20221231010041_InitConfigration")]
-    partial class InitConfigration
+    partial class InitConfiguration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
